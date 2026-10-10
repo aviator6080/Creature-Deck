@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{ "path": "." }
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*.uasset": true,
+			"**/*.umap": true
+		}
+	},
+	"extensions": {
+		"recommendations": [ "sumneko.lua" ]
+	}
+}
